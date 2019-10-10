@@ -1,1 +1,43 @@
+body{
 
+  font-size: 16px
+  
+font-family: 'Oygen', sans-serif;
+border: 1px solid black;
+}
+#header-nav{
+  background-color: #f6b319;
+  border-radius: 0;
+  border-bottom: 1px solid black;
+  
+  
+}
+
+.navbar-brand h1 {
+  font-family: 'lora', serif;
+  color: #557c3e;
+  font-size: 2em;
+  font-weight: bold;
+  margin-top: -10px;
+  margin-bottom: 0; 
+  line-height: 1
+   padding-left: 10px;
+  padding-top: 10px;
+  
+}
+
+p{
+  background-color: gray;
+  padding: 0px 10px 0px 10px;
+  text-align: justify;
+  margin-bottom: auto;
+}
+
+
+.navbar-header button.navbar-toggle, .nacbar-header .icon-bar {
+  border: 1px solid 61122f;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+
+}
